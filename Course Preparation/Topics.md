@@ -18,7 +18,7 @@
 * Vector
 * Iterators
 * Comparators
-* Maps/Sets
+* Maps / HashMap / Sets
 * String
 
 # Number Theory
