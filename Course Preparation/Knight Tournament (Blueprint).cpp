@@ -47,7 +47,7 @@ void Knight_Tournament(int n, int fights)
          * Else, get the iterator of the first number greater than left
          * The above 2 tasks can be done in one line (Hint : Use a function from above)
          * De-reference the iterator and store it in a variable 'currentPerson'
-	 * Question : How do we know that we are not de-referencing a null pointer?
+         * Question : How do we know that we are not de-referencing a null pointer?
          */
         
         // We want to keep deleting till we hit the right end-point of this query
