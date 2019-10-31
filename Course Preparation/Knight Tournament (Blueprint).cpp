@@ -64,7 +64,7 @@ void Knight_Tournament(int n, int fights)
              */
             
             /* Get the iterator of the element which is next to the deleted element
-             * Note : Note that once you delete it, 'itr++' won't work
+             * Note : Once you delete itr, 'itr++' won't work
              * Hint : Read up the documentation on the return type of std :: set.erase()
              * Update 'itr' to this iterator for this loop to continue
              */
