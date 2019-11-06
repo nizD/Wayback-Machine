@@ -21,7 +21,7 @@ void max_in_every_window(vector<int> &a, int window_size)
 	 */
 	
 	/* Travese the first window */
-	for(int i = 0; i < window_size; i++)
+	for(int i = 0; i < ???; i++)
 	{
 		int incoming_index = ???
 		
@@ -37,7 +37,7 @@ void max_in_every_window(vector<int> &a, int window_size)
 	 */
 	cout << a[dq.front()] << " ";
 	
-	for(int i = window_size; i < n; i++)
+	for(???)
 	{
 		/* Find the index of the incoming and leaving element */
 		int leaving_index  = ???
