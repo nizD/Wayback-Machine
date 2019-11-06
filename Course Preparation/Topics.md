@@ -23,13 +23,17 @@
 
 # Number Theory
 * Sieve of Erathostenes
+* Prime Factorization
 
 # Graph
 * DFS
 * BFS
 * Cycle Detection
 * Connected Components
-* Topological Sorting
+* Topological Sorting (Kahn's)
+* MST (Kruskal)
+* Bipartite Graphs
 
 # Miscellaneous
 * Time Complexity
+* Introduction to OOPs

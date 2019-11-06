@@ -4,6 +4,7 @@
 * Length
 * Range Based For Loop modification
 * Lexicographical Comparison
+* Default Comparator for Sorting
 
 # Rare Gems
 * stringstream
