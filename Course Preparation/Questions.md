@@ -43,13 +43,15 @@
 * Valid Parentheses
 * Longest Valid Parentheses
 * Min Stack
+* Merge Overlapping Intervals
 * Implement 2 stacks in an array (Memory Efficient)
 * Largest Rectangle under Histogram (Tricky)
+
 
 ## Queue
 * First non repeating character in stream
 * Circular Tour of Petrol Pumps (Gas Stations)
-* 
+* Queue using two stacks
 
 
 ## Dynamic Programming
