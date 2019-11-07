@@ -73,5 +73,5 @@
 ## Graph
 * Word Ladder
 * Minimum Number of Jumps (Jump Game)
-
+* [Activate Fountains](https://leetcode.com/discuss/interview-question/363036/twitter-oa-2019-activate-fountain) (Min Jump Applicatioin)
 
