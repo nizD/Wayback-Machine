@@ -6,3 +6,4 @@
 * Bipartite Graph (using BFS and DFS)
 * Strongly Connnected Components (Kosaraju's Implementation)
 * Longest Path in a DAG
+* Dijkstra's Algorithm
