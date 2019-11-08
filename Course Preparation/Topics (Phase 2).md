@@ -23,6 +23,10 @@
 * Detailed discussion on some classical problems
 * A shortcut for DP --- Top Down DP Approach (Using Memoization)
 
+# Backtracking 
+* Intuition and corelation with recursion
+* Discussion on 4 classical problems
+
 # Union Find
 * Union by Rank technique (For **O(1)** queries)
 
