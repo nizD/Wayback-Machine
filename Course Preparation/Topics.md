@@ -32,7 +32,6 @@
 * Connected Components
 * Topological Sorting (Kahn's)
 * MST (Kruskal)
-* Bipartite Graphs
 
 # Miscellaneous
 * Time Complexity
