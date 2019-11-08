@@ -18,6 +18,10 @@
 * Insertion in BST
 * Intuition about Balanced BST and STL implementations (No code)
 
+# String
+* Linear time Pattern Matching using KMP
+* Minimum insertions to make palindrome using KMP
+
 # Dynamic Programming
 * Some more intuition about the working of DP techniques 
 * Detailed discussion on some classical problems
