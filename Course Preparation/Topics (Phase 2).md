@@ -18,6 +18,11 @@
 * Insertion in BST
 * Intuition about Balanced BST and STL implementations (No code)
 
+# Dynamic Programming
+* Some more intuition about the working of DP techniques 
+* Detailed discussion on some classical problems
+* A shortcut for DP --- Top Down DP Approach (Using Memoization)
+
 # Union Find
 * Union by Rank technique (For **O(1)** queries)
 
