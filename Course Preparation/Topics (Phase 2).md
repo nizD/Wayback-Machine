@@ -24,6 +24,7 @@
 
 ## Dynamic Programming
 * Some more intuition about the working of DP techniques 
+* Techniques to recover the solution from DP table
 * Detailed discussion on some classical problems
 * A shortcut for DP --- Top Down DP Approach (Using Memoization)
 
