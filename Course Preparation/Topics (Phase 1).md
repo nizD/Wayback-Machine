@@ -1,4 +1,4 @@
-# Data Structures
+## Data Structures
 * Stack
 * Queue
 * Heaps/Priority Queue
@@ -7,25 +7,25 @@
 * Disjoint Set Union
 * Hashing (Just the Applications)
 
-# Paradigms
+## Paradigms
 * Recursion
 * Divide and Conquer
 * Sorting
 * Dynamic Programming
 
 
-# STL
+## STL
 * Vector
 * Iterators
 * Comparators
 * Maps / HashMap / Sets
 * String
 
-# Number Theory
+## Number Theory
 * Sieve of Erathostenes
 * Prime Factorization
 
-# Graph
+## Graph
 * DFS
 * BFS
 * Cycle Detection
@@ -33,6 +33,6 @@
 * Topological Sorting (Kahn's)
 * MST (Kruskal)
 
-# Miscellaneous
+## Miscellaneous
 * Time Complexity
 * Introduction to OOPs
