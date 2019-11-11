@@ -50,29 +50,29 @@ void Knight_Tournament(int n, int fights)
 	 * Question : How do we know that we are not de-referencing a null pointer?
 	 */
 	
-	// We want to keep deleting till we hit the right end-point of this query
-	while(itr != alive.end() and ??? )
-	{
-		/* The killer of 'currentPerson' is the 'winner'
-		 * Record it in your vector 
-		 * Make sure not to make the 'winner' kill himself
-		 */
-		 
-		/* Delete this current person from the set (using iterators)
-		 * Note : We will also delete the winner for now. Why?
-		 * It's a bit of a hassle to jump through ierators, hence we delete all elements
-		 */
-		
-		/* Get the iterator of the element which is next to the deleted element
-		 * Note : Once you delete itr, 'itr++' won't work
-		 * Hint : Read up the documentation on the return type of std :: set.erase()
-		 * Update 'itr' to this iterator for this loop to continue
-		 */
-		 
-		/* You also need to add one more line here. Can you guess what it is?
-		 * Hint : Look carefully at the loop conditions
-		 */
-	}
+		// We want to keep deleting till we hit the right end-point of this query
+		while(itr != alive.end() and ??? )
+		{
+			/* The killer of 'currentPerson' is the 'winner'
+			 * Record it in your vector 
+			 * Make sure not to make the 'winner' kill himself
+			 */
+
+			/* Delete this current person from the set (using iterators)
+			 * Note : We will also delete the winner for now. Why?
+			 * It's a bit of a hassle to jump through ierators, hence we delete all elements
+			 */
+
+			/* Get the iterator of the element which is next to the deleted element
+			 * Note : Once you delete itr, 'itr++' won't work
+			 * Hint : Read up the documentation on the return type of std :: set.erase()
+			 * Update 'itr' to this iterator for this loop to continue
+			 */
+
+			/* You also need to add one more line here. Can you guess what it is?
+			 * Hint : Look carefully at the loop conditions
+			 */
+		}
 	
 	/* All persons in that range have been killed
 	 * But the winner should have been alive
