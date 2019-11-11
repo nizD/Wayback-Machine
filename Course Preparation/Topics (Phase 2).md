@@ -20,7 +20,7 @@
 
 ## String
 * Linear time Pattern Matching using KMP
-* Minimum insertions to make palindrome using KMP
+* Classical Applications of KMP
 
 ## Dynamic Programming
 * Some more intuition about the working of DP techniques 
@@ -29,7 +29,7 @@
 * A shortcut for DP --- Top Down DP Approach (Using Memoization)
 
 ## Backtracking 
-* Intuition and corelation with recursion
+* Intuition and co-relation with recursion
 * Discussion on 4 classical problems
 
 ## Union Find
