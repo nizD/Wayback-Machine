@@ -58,6 +58,7 @@
 * House Robber
 * Trapping Rainwater
 * Maximum sum subarray
+* Minimum subarray sorting which sorts the entire array
 * Edit Distance
 * Longest common subsequence
 * Longest increasing subsequence
