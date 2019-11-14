@@ -61,10 +61,13 @@
 * House Robber
 * Trapping Rainwater
 * Maximum sum subarray
-* Minimum subarray sorting which sorts the entire array
+* Minimum length subarray, sorting which sorts the entire array
 * Edit Distance
 * Longest common subsequence
 * Longest increasing subsequence
+* Longest Palindromic Subsequence
+* Longest Palindromic Substring
+* K-Palindromes
 * Subset Sum
 * Knapsack
 * Coin Change
@@ -76,8 +79,14 @@
 ## Union Find
 * Cycle Detection
 
+## DFS
+* Number of Islands
+
+## Topological Sorting
+* Alien Dictionary
+
 ## Graph
 * Word Ladder
 * Minimum Number of Jumps (Jump Game)
-* [Activate Fountains](https://leetcode.com/discuss/interview-question/363036/twitter-oa-2019-activate-fountain) (Min Jump Applicatioin)
+* [Activate Fountains](https://leetcode.com/discuss/interview-question/363036/twitter-oa-2019-activate-fountain) (Min Jump Applicatiin)
 
