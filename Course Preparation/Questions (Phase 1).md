@@ -54,6 +54,9 @@
 * Queue using two stacks
 
 
+## Comparators
+* Concatenate array elements to get the maximum number
+
 ## Dynamic Programming
 * House Robber
 * Trapping Rainwater
