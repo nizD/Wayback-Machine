@@ -1,4 +1,5 @@
 ## Sliding Window
+* Subarray with given sum
 * Distinct elements in every window of size `k`
 * Maximum of every window of size `k`
 * Minimum window substring containing every character of other string
@@ -46,13 +47,15 @@
 * Merge Overlapping Intervals
 * Implement 2 stacks in an array (Memory Efficient)
 * Largest Rectangle under Histogram (Tricky)
+* Next Greater Element (with Duplicates)
+* Recursively Remove Adjacent Duplicates
 
 
 ## Queue
 * First non repeating character in stream
 * Circular Tour of Petrol Pumps (Gas Stations)
-* Queue using two stacks
-
+* Queue using two stacks 
+* LRU Cache (Tricky)
 
 ## Comparators
 * Concatenate array elements to get the maximum number
@@ -61,6 +64,7 @@
 * House Robber
 * Trapping Rainwater
 * Maximum sum subarray
+* Buying and Selling Stocks (2 Version)
 * Minimum length subarray, sorting which sorts the entire array
 * Edit Distance
 * Longest common subsequence
@@ -71,6 +75,11 @@
 * Subset Sum
 * Knapsack
 * Coin Change
+* Sum of any Rectangle in a Matrix 
+
+## Hashing
+* All pairs with given sum
+* 
 
 ## Greedy Algorithms
 * Minimum number of platforms
@@ -81,6 +90,14 @@
 
 ## DFS
 * Number of Islands
+* Flood Fill Algorithm
+
+## Cycle Detection
+* Minimum Adjacent Swaps to Sort (Great Use-case)
+
+# BFS
+* Rotten Oranges
+* Snake and Ladder
 
 ## Topological Sorting
 * Alien Dictionary
@@ -90,3 +107,19 @@
 * Minimum Number of Jumps (Jump Game)
 * [Activate Fountains](https://leetcode.com/discuss/interview-question/363036/twitter-oa-2019-activate-fountain) (Min Jump Applicatiin)
 
+
+## KMP
+* Pattern Matching
+* Minimum insertions at front/back to make palindrome
+* Smallest Repeating Unit in a string
+
+## Backtracking
+* Permutations of a given string (With and without repetitions)
+* Generate Valid Parenthesis
+* Rat in a Maze
+* N-Queens
+* Sudoku-Solver (Tricky)
+
+
+## Ad-Hoc Matrix
+* Spiral Traversal
