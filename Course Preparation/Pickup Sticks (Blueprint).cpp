@@ -128,7 +128,7 @@ vector<int> Graph :: topologicalSort()
 	 */
 	
 	// Perform the Topological Sort
-	while(!myQueue.empty())
+	while(not myQueue.empty())
 	{
 		/* 1) Pop the front element of the queue in 'current'
 		 * 2) Append it to the 'result'
@@ -140,7 +140,7 @@ vector<int> Graph :: topologicalSort()
 		 */
 
 		// Traverse the adjacency list and virtually delete it
-		for(auto neighbour : adj[current])
+		for(auto child : adj[current])
 		{
 			// 3 Lines of code (Don't use index)
 		}
