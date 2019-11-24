@@ -152,8 +152,8 @@ vector<int> Graph :: topologicalSort()
 	 * Question : Why is there an '&' before 'row_vec'?
 	 */
 	for(auto &row_vec : adj)
-		for(auto ele : row_vec)
-			inDegree[ele]++;
+		for(auto child : row_vec)
+			inDegree[child]++;
 
 	/* Declare the empty vector 'result' to hold the topological ordering
 	 * Declare the queueu 'myQueue' to perform the topological sorting
@@ -164,12 +164,12 @@ vector<int> Graph :: topologicalSort()
 	/* Push all the vertices with indegree 0 into the queue
 	 * Hint : 3 lines of code
 	 */
-	for(int u = 0; u < vertex; u++)
-		if(inDegree[u] == 0)
-			myQueue.push(u);
+	for(int node = 0; node < vertex; node++)
+		if(inDegree[node] == 0)
+			myQueue.push(node);
 			
 	// Perform the Topological Sort
-	while(!myQueue.empty())
+	while(not myQueue.empty())
 	{
 		/* 1) Pop the front element of the queue in 'current'
 		 * 2) Append it to the 'result'
@@ -185,12 +185,12 @@ vector<int> Graph :: topologicalSort()
 		 */
 		
 		// Traverse the adjacency list and virtually delete it
-		for(auto neighbour : adj[current])
+		for(auto child : adj[current])
 		{
 			// 3 Lines of code (Don't use index)
-			inDegree[neighbour]--;
-			if(inDegree[neighbour] == 0)
-				myQueue.push(neighbour);
+			inDegree[child]--;
+			if(inDegree[child] == 0)
+				myQueue.push(child);
 		}
 	}
 	
